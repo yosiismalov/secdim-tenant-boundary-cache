@@ -24,4 +24,4 @@ Unlike generic principal-cache context collapse proposals, this scenario focuses
 ## Request to SecDim
 Please confirm whether this concept is sufficiently distinct and suitable for Advanced-level development before I build the SecDim Play SDK version. Please also clarify contributor eligibility and payouts for a creator based in Israel and whether AI-assisted implementation is permitted with appropriate disclosure.
 
-**Code link:** Add public GitHub repository URL when published.
+**Code link:** https://github.com/yosiismalov/secdim-tenant-boundary-cache
